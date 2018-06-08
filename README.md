@@ -5,7 +5,7 @@
 ## Changelog Pstage 3.0.2 :
 
 ## Modification
-	 2018/06/08 - versions des snapshots 3.0.0 en 3.0.2
+	 2018/06/08 - versions des snapshots de 3.0.0 en 3.0.2
     2018/06/08 - version application de 3.0.0 en 3.0.2
 	 2018/06/08 - mise à jour des dépendances locales - version du jar (apo-webservicesclient.jar)
 	
