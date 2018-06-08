@@ -2447,7 +2447,7 @@
 							<fo:block line-height="110%" hyphenate="false" language="fr"
 								country="FR" font-size="10pt" font-family="Times New Roman,serif"
 								padding-top="0.2cm" text-align="justify">
-								<fo:external-graphic src="url('square.JPG')" />
+								<fo:external-graphic src="url('square.jpg')" />
 								<fo:inline font-weight="bold"> SI
 								</fo:inline>
 								(esta se añade a los derechos derivados del régimen francés
@@ -2456,7 +2456,7 @@
 							<fo:block line-height="110%" hyphenate="false" language="fr"
 								country="FR" font-size="10pt" font-family="Times New Roman,serif"
 								padding-top="0.2cm" text-align="justify">
-								<fo:external-graphic src="url('square.JPG')" />
+								<fo:external-graphic src="url('square.jpg')" />
 								<fo:inline font-weight="bold"> NO
 								</fo:inline>
 								(la cobertura es facilitada únicamente por los derechos

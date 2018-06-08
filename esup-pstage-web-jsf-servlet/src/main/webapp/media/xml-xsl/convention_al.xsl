@@ -2381,7 +2381,7 @@
 							<fo:block line-height="110%" hyphenate="false" language="fr"
 								country="FR" font-size="10pt" font-family="Times New Roman,serif"
 								padding-top="0.1cm">
-								<fo:external-graphic src="url('square.JPG')" />
+								<fo:external-graphic src="url('square.jpg')" />
 								<fo:inline font-weight="bold"> JA
 								</fo:inline>
 								: dieser Schutz kommt zum Erhalt der Leistungen aus der
@@ -2390,7 +2390,7 @@
 							<fo:block line-height="110%" hyphenate="false" language="fr"
 								country="FR" font-size="10pt" font-family="Times New Roman,serif"
 								padding-top="0.1cm" padding-bottom="4pt">
-								<fo:external-graphic src="url('square.JPG')" />
+								<fo:external-graphic src="url('square.jpg')" />
 								<fo:inline font-weight="bold"> NEIN
 								</fo:inline>
 								: der Schutz beruht einzig auf dem Erhalt der Leistungen aus der

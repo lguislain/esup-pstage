@@ -2312,7 +2312,7 @@
 							<fo:block line-height="110%" hyphenate="false" language="fr"
 								country="FR" font-size="10pt" font-family="Times New Roman,serif"
 								padding-top="0.2cm" text-align="justify">
-								<fo:external-graphic src="url('square.JPG')" />
+								<fo:external-graphic src="url('square.jpg')" />
 								<fo:inline font-weight="bold"> SÌ
 								</fo:inline>
 								la protezione sanitaria si aggiunte, all'estero, al mantenimento
@@ -2321,7 +2321,7 @@
 							<fo:block line-height="110%" hyphenate="false" language="fr"
 								country="FR" font-size="10pt" font-family="Times New Roman,serif"
 								padding-top="0.2cm" text-align="justify">
-								<fo:external-graphic src="url('square.JPG')" />
+								<fo:external-graphic src="url('square.jpg')" />
 								<fo:inline font-weight="bold"> NO
 								</fo:inline>
 								la protezione sanitaria, all'estero, sarà esclusivamente

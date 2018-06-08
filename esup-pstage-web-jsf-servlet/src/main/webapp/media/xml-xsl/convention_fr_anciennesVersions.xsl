@@ -1809,7 +1809,7 @@
 							<fo:block line-height="110%" hyphenate="false" language="fr"
 								country="FR" font-size="10pt" font-family="Times New Roman,serif"
 								padding-top="0.2cm">
-								<fo:external-graphic src="url('square.JPG')" />
+								<fo:external-graphic src="url('square.jpg')" />
 								<fo:inline font-weight="bold"> OUI
 								</fo:inline>
 								: cette protection s'ajoute au maintien, à l'étranger, des
@@ -1819,7 +1819,7 @@
 							<fo:block line-height="110%" hyphenate="false" language="fr"
 								country="FR" font-size="10pt" font-family="Times New Roman,serif"
 								padding-top="0.2cm">
-								<fo:external-graphic src="url('square.JPG')" />
+								<fo:external-graphic src="url('square.jpg')" />
 								<fo:inline font-weight="bold"> NON
 								</fo:inline>
 								: la protection découle alors exclusivement du maintien, à

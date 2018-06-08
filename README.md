@@ -13,6 +13,6 @@
 	 2018/06/08 - jar webapp/WEB-INF/lib/apo-webservicesclient500lba.jar
 
 ## Correction
-	 2018/05/29 - changement suffixe image square.JPG en square.jpg (52 occurrences dans 12 fichiers).
+	 2018/05/29 - changement suffixe image square.jpg en square.jpg (52 occurrences dans 12 fichiers).
 				voir fichier esup-pstage-change-xml-xss.txt
 	 

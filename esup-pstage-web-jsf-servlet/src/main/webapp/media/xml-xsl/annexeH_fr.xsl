@@ -299,13 +299,13 @@
 							<fo:block line-height="110%" hyphenate="false" language="fr"
 								country="FR" font-size="12pt" font-family="Times New Roman,serif"
 								padding-top="0.2cm">
-								<fo:external-graphic src="url('square.JPG')" />
+								<fo:external-graphic src="url('square.jpg')" />
 								Non
 							</fo:block>
 							<fo:block line-height="110%" hyphenate="false" language="fr"
 								country="FR" font-size="12pt" font-family="Times New Roman,serif"
 								padding-top="0.2cm">
-								<fo:external-graphic src="url('square.JPG')" />
+								<fo:external-graphic src="url('square.jpg')" />
 								Oui
 								:
 								<fo:inline font-size="9pt" font-style="italic"
@@ -349,7 +349,7 @@
 							<fo:block line-height="110%" hyphenate="false" language="fr"
 								country="FR" font-size="10pt" font-family="Times New Roman,serif"
 								padding-top="0.2cm">
-								<fo:external-graphic src="url('square.JPG')" />
+								<fo:external-graphic src="url('square.jpg')" />
 								<fo:inline font-weight="bold">Vous bénéficiez d'un régime de
 									protection sociale local
 								</fo:inline>
@@ -375,7 +375,7 @@
 							<fo:block line-height="110%" hyphenate="false" language="fr"
 								country="FR" font-size="10pt" font-family="Times New Roman,serif"
 								padding-top="0.2cm">
-								<fo:external-graphic src="url('square.JPG')" />
+								<fo:external-graphic src="url('square.jpg')" />
 								<fo:inline font-weight="bold">Vous ne bénéficiez pas
 								</fo:inline>
 								d'un régime de protection sociale local.
@@ -473,13 +473,13 @@
 							<fo:block margin-left="1.5cm" padding-top="0.1cm">
 								<fo:block line-height="110%" hyphenate="false"
 									language="fr" country="FR" font-size="12pt" font-family="Times New Roman,serif">
-									<fo:external-graphic src="url('square.JPG')" />
+									<fo:external-graphic src="url('square.jpg')" />
 									Non
 								</fo:block>
 								<fo:block line-height="110%" hyphenate="false"
 									padding-top="0.1cm" language="fr" country="FR" font-size="12pt"
 									font-family="Times New Roman,serif">
-									<fo:external-graphic src="url('square.JPG')" />
+									<fo:external-graphic src="url('square.jpg')" />
 									Oui :
 									<fo:inline font-style="italic">précisez les particularités
 									</fo:inline>
