@@ -5,7 +5,7 @@
 	<parent>
 		<artifactId>esup-pstage</artifactId>
 		<groupId>org.esupportail</groupId>
-		<version>3.0.0-SNAPSHOT</version>
+		<version>3.0.2-SNAPSHOT</version>
 	</parent>
 	<artifactId>esup-pstage-domain-beans</artifactId>
 	<description>The business object</description>
@@ -27,9 +27,9 @@
 		<dependency>
 			<groupId>local</groupId>
 			<artifactId>apo-webservicesclient.jar</artifactId>
-			<version>1.0.0</version>
+			<version>5.0.0</version>
 			<scope>system</scope>
-			<systemPath>${basedir}/../esup-pstage-web-jsf-servlet/src/main/webapp/WEB-INF/lib/apo-webservicesclient500la.jar</systemPath>
+			<systemPath>${basedir}/../esup-pstage-web-jsf-servlet/src/main/webapp/WEB-INF/lib/apo-webservicesclient500lba.jar</systemPath>
 		</dependency>
 	</dependencies>
 </project>
